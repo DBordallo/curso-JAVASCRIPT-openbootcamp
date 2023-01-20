@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DBordallo/curso-JS.git"
+    "url": "git+https://github.com/DBordallo/curso-JAVASCRIPT-openbootcamp.git"
   },
   "keywords": [
     "tema1"
@@ -16,7 +16,7 @@
   "author": "Diego",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DBordallo/curso-JS/issues"
+    "url": "https://github.com/DBordallo/curso-JAVASCRIPT-openbootcamp/issues"
   },
-  "homepage": "https://github.com/DBordallo/curso-JS#readme"
+  "homepage": "https://github.com/DBordallo/curso-JAVASCRIPT-openbootcamp.git#readme"
 }
