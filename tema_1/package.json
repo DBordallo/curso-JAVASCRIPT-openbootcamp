@@ -1,0 +1,22 @@
+{
+  "name": "tema-1",
+  "version": "1.0.0",
+  "description": "tema 1 curso JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBordallo/curso-JS.git"
+  },
+  "keywords": [
+    "tema1"
+  ],
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBordallo/curso-JS/issues"
+  },
+  "homepage": "https://github.com/DBordallo/curso-JS#readme"
+}
