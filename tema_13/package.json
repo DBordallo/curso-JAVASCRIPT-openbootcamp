@@ -1,0 +1,16 @@
+{
+  "name": "tema_13",
+  "version": "1.0.0",
+  "main": "cadenas de texto.js",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
